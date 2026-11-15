@@ -12,6 +12,12 @@ dependencies = [
     "langchain-google-genai>=4.3.5",
     "langchain-groq>=1.1.3",
     "langchain-openai>=1.6.0",
+    "langchain-tavily>=0.2.18",
     "langgraph>=1.2.11",
+    "numpy>=2.5.2",
+    "openmeteo-requests>=1.7.5",
+    "pandas>=3.1.1",
     "python-dotenv>=1.2.3",
+    "requests-cache>=1.3.3",
+    "retry-requests>=2.0.0",
 ]

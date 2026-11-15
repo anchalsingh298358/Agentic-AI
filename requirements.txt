@@ -5,3 +5,9 @@ langchain-groq
 python-dotenv
 langchain-google-genai
 langgraph
+langchain_tavily
+openmeteo-requests
+requests-cache 
+retry-requests 
+numpy 
+pandas
